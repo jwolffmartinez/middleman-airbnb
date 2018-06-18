@@ -1,0 +1,74 @@
+
+.quick-booking {
+  display: flex;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  justify-content: space-between;
+  
+}
+
+.avatar-with-details {
+  text-align: center;
+  font-size: 80%;
+
+  h3 {
+    margin-top: 0px;
+  }
+}
+
+
+.booking-form {
+  background-color: #cecece;
+  padding: 10px 10px 10px 10px;
+  border-radius: 3px;
+
+  h2 {
+    margin-top: 0px;
+  }
+
+}
+
+.form-control {
+  margin-bottom: 10px;
+}
+
+.btn-dif {
+  opacity: 0.9;
+  background-color: #f73859;
+
+  &:hover{
+    opacity: 1;
+    background-color: #f73859;
+  }
+}
+
+.wrapper-grey {
+
+  background-color: #cecece;
+  height: 1000px;
+
+}
+
+.row {
+  
+  padding-top: 20px;
+  h3 {
+    margin-top: 0px;
+  }
+
+  ul {
+    list-style-type: none;
+    padding-left: 0px;
+  }
+
+  i {
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+  }
+}
+
+
+
+
+
